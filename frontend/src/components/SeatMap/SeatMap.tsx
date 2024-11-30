@@ -114,6 +114,10 @@ const SeatMap: React.FC = () => {
   
     if (!memberID) {
       message.error('Member ID not found');
+
+
+      
+
       return;
     }
   
